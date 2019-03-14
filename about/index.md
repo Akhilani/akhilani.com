@@ -26,15 +26,16 @@ applications.
 ● Problem solver, detail oriented, well adapting.
 ```
 ## SKILLS
-
-**Server side:** ​ PHP5, PHP7, bash
-**Client side:** ​ HTML5, CSS3, Javascript, AngularJS, jQuery, Bootstrap
-**VCS:** ​ Git, SVN, Mercurial
-**PHP Frameworks:** ​ Laravel, Zend, CakePHP, Symfony
-**CMS:** ​ Wordpress
-**Package Managers:** ​ composer, npm, bower
-**Databases:** ​ MySQL, MongoDB, MariaDB
-**Methodologies:** ​ SCRUM, Kanban
-**Server Management:** ​ AWS, Digital Ocean, Dedicated Servers running on Ubuntu, CentOS and Windows
+```
+//SERVER SIDE: ​ PHP5, PHP7, bash
+//CLIENT SIDE: ​ HTML5, CSS3, Javascript, AngularJS, jQuery, Bootstrap
+//VCS ​ Git, SVN, Mercurial
+//PHP FRAMEWORKS: ​ Laravel, Zend, CakePHP, Symfony
+//CMS: ​ Wordpress
+//PACKAGE MANAGERS: ​ composer, npm, bower
+//DATABASES: ​ MySQL, MongoDB, MariaDB
+//METHODOLOGIES: ​ SCRUM, Kanban
+//SERVER MANAGEMENT: ​ AWS, Digital Ocean, Dedicated Servers running on Ubuntu, CentOS and Windows
 Server, Shared hosting, Reseller hosting (webmaster at oceanicserver.com)
-**Others:** ​ JIRA, Confluence, SEO, Vagrant, Artisan, Laravel Homestead
+//OTHERS ​ JIRA, Confluence, SEO, Vagrant, Artisan, Laravel Homestead
+```
