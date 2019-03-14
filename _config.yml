@@ -8,7 +8,7 @@ logo:               'assets/img/akhil.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://akhilani.github.io
+url:                https://www.akhilani.com
 
 # Jekyll
 permalink:          /:title/
