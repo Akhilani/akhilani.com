@@ -37,5 +37,5 @@ DATABASES: ​ MySQL, MongoDB, MariaDB
 METHODOLOGIES: ​ SCRUM, Kanban
 SERVER MANAGEMENT: ​ AWS, Digital Ocean, Dedicated Servers running on Ubuntu, CentOS and Windows
                     Server, Shared hosting, Reseller hosting (webmaster at oceanicserver.com)
-OTHERS ​ JIRA, Confluence, SEO, Vagrant, Artisan, Laravel Homestead
+OTHERS: ​ JIRA, Confluence, SEO, Vagrant, Artisan, Laravel Homestead
 ```
