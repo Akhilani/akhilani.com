@@ -7,10 +7,7 @@ comments: false
 
 
 # Akhil Kadangode
-
-#### KERALA, INDIA
-
-#### CURRENT LOCATION: GÖTEBORG, SWEDEN
+#### LOCATION: GÖTEBORG, SWEDEN
 
 akhilania <kbd>at</kbd> outlook <kbd>.</kbd> com
 
