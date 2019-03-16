@@ -20,3 +20,21 @@
     {% if page.comments != false %}
         {% include disqus_comments.html %}
     {% endif %}
+    <!--Cookie consent JS-->
+    <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+    <script>
+        window.addEventListener("load", function(){
+            window.cookieconsent.initialise({
+                "palette": {
+                    "popup": {
+                        "background": "#000"
+                    },
+                    "button": {
+                        "background": "#ffffff"
+                    }
+                },
+                "content": {
+                    "message": "My website uses cookies to ensure you get the best experience on the website."
+                }
+            })});
+    </script>
