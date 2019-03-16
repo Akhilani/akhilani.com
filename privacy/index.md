@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Privacy
+title: Privacy Policy
 excerpt: "Cookie Policy"
 comments: false
 ---
 
 <div class="row">
+    <h2>Personal Information</h2>
 	<p>When you visit this site, cookies will be placed on your machine for tracking visitor activity anonymously; targeting advertisements by interest; and remembering user preferences.</p>
 	<p>I set a cookie to remember that you don't want to see the banner at the bottom of the page that warns you about cookies on this site. If you click the "Got it!" button, 
 		you will not see this banner on future visits* and you will opt in to having a cookie placed on your machine by this website.</p>
