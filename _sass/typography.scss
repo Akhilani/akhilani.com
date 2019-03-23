@@ -33,7 +33,7 @@
 
 // headings
 h3.title a {
-	color: $color_shark;
+	color: $white;
 	text-decoration: none;
 }
 
@@ -90,19 +90,19 @@ figcaption {
 // links
 a {
   transition: color .4s;
-  color: $color_shark;
+  color: $white;
   &:link {
-  	color: $color_shark;
+  	color: $white;
   }
   &:visited {
-  	color: $color_tuatara;
+  	color: $color_alabaster;
   }
   &:hover {
-  	color: $red;
+  	color: $color_alabaster;
   }
   &:active {
   	transition: color .3s;
-  	color: $maroon;
+  	color: $color_gray;
   }
 }
 
